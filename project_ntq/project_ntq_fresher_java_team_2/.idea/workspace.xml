@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cdf44c0-935f-4c16-843d-310dea3044d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/ntq/social/ntq_fresher_social/controller/GroupController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/ntq/social/ntq_fresher_social/controller/GroupController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NM5xGtqcPBhO1TncH6FOuwqFQJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/NTQ/project_team1&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;acf8e3f2da5d82703fc8858b0442b8d4&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;mongo&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="NtqFresherSocialApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="NTQ_Fresher_Social" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="solutions.ntq.social.ntq_fresher_social.NtqFresherSocialApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cdf44c0-935f-4c16-843d-310dea3044d5" name="Changes" comment="" />
+      <created>1679461356523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679461356523</updated>
+      <workItem from="1679461359662" duration="1410000" />
+      <workItem from="1679480579598" duration="595000" />
+      <workItem from="1679556741988" duration="2776000" />
+      <workItem from="1679630359581" duration="1560000" />
+      <workItem from="1679882550184" duration="1344000" />
+      <workItem from="1679889714962" duration="284000" />
+      <workItem from="1679890013799" duration="29000" />
+      <workItem from="1679890227884" duration="1885000" />
+      <workItem from="1679907981973" duration="195000" />
+      <workItem from="1679908217147" duration="1202000" />
+      <workItem from="1679933243965" duration="710000" />
+      <workItem from="1679968803192" duration="3193000" />
+      <workItem from="1679988829177" duration="7583000" />
+      <workItem from="1679997987059" duration="315000" />
+      <workItem from="1679998342728" duration="981000" />
+      <workItem from="1680055204903" duration="3885000" />
+      <workItem from="1680059242790" duration="8212000" />
+      <workItem from="1680158588250" duration="4569000" />
+      <workItem from="1680181628070" duration="1121000" />
+      <workItem from="1680185729084" duration="384000" />
+      <workItem from="1680191920789" duration="489000" />
+      <workItem from="1680226717559" duration="10057000" />
+      <workItem from="1680348398670" duration="8396000" />
+      <workItem from="1680488095623" duration="11940000" />
+      <workItem from="1680577856488" duration="9595000" />
+      <workItem from="1680666531226" duration="6489000" />
+      <workItem from="1680706397352" duration="1291000" />
+      <workItem from="1680767661921" duration="610000" />
+      <workItem from="1680790596395" duration="4569000" />
+      <workItem from="1680833343418" duration="1075000" />
+      <workItem from="1680971536474" duration="274000" />
+      <workItem from="1681091620783" duration="1303000" />
+      <workItem from="1681135014048" duration="843000" />
+      <workItem from="1681182548037" duration="4215000" />
+      <workItem from="1686234040695" duration="2381000" />
+      <workItem from="1686326974948" duration="1227000" />
+      <workItem from="1686412972678" duration="848000" />
+      <workItem from="1686473866359" duration="695000" />
+      <workItem from="1686540710408" duration="4703000" />
+      <workItem from="1686731105169" duration="568000" />
+      <workItem from="1688831875875" duration="1218000" />
+      <workItem from="1689351682125" duration="3109000" />
+      <workItem from="1689608280947" duration="3369000" />
+      <workItem from="1689644206632" duration="1291000" />
+      <workItem from="1689752845979" duration="3959000" />
+      <workItem from="1689923326124" duration="905000" />
+      <workItem from="1689944096456" duration="730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: solutions.ntq.social.NTQ_Social_Project.NtqSocialProjectAppl
+ ication
+

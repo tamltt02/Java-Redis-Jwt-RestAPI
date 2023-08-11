@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: solutions.ntq.social.ntq_fresher_social.NtqFresherSocialApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.635 s - in solutions.ntq.social.ntq_fresher_social.NtqFresherSocialApplicationTests
